@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Trabalho",
-  description: "trabalho de algebra linear",
+  title: "Vetorize",
+  description: "Vetorize",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
